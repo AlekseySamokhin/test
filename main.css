@@ -2,5 +2,6 @@ h1 {
 	color: red;
 	background-color: green;
 	text-align: center;
-    font-size: 2rem;
+	font-size: 2rem;
+	margin: 10px;
 }

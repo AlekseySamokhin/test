@@ -10,3 +10,5 @@ async function range(start, end) {
         console.log(item)
     }
 })()
+
+console.log("Hello, World!");
